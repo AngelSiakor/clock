@@ -1,0 +1,19 @@
+   body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        box-shadow: rgba(76, 197, 245, 0.25) 0px 54px 55px, rgba(17, 207, 221, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 
+        0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(37, 170, 247, 0.09) 0px -3px 5px;
+           padding: 90px;
+           width: 1000px;
+           margin-left: 80px;
+           margin-top: 65px;
+    }
+    #guessInput {
+        margin-top: 20px;
+        padding: 5px;
+    }
+    #result {
+        margin-top: 20px;
+        font-size: 18px;
+    }
+    
